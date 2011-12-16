@@ -1,0 +1,52 @@
+Number of Movies: 11
+X-Men: First Class,Genre: Action,Rating: 4.5,Times Checked Out: 12,Release Date: 7/1/2011,ImageIcon: images/XMen.jpg,Format: DVD
+The Social Network,Genre: Drama,Rating: 4.5,Times Checked Out: 8,Release Date: 09/01/2011,ImageIcon: images/TheSocialNetwork.jpg,Format: Blu-Ray
+Bridesmaids,Genre: Comedy,Rating: 4.2,Times Checked Out: 3,Release Date: 5/5/2011,ImageIcon: images/Bridesmaids.jpg,Format: DVD
+Midnight In Paris,Genre: Romance,Rating: 0.5,Times Checked Out: 2,Release Date: 6/5/2011,ImageIcon: images/MidnightInParis.jpg,Format: Blu-Ray
+The Hangover,Genre: Comedy,Rating: 4.3,Times Checked Out: 2,Release Date: 5/5/2009,ImageIcon: images/TheHangover.jpg,Format: DVD
+Rise Of The Planet Of The Apes,Genre: Action,Rating: 4.2,Times Checked Out: 1,Release Date: 8/05/2011,ImageIcon: images/RiseOfApes.jpg,Format: DVD
+Friends With Benefits,Genre: Romance,Rating: 4.3,Times Checked Out: 5,Release Date: 7/22/2011,ImageIcon: images/FriendsWithBenefits.jpg,Format: DVD
+Harry Potter & the Deathly Hallows: Part 2,Genre: Adventure,Rating: 4.45,Times Checked Out: 19,Release Date: 7/15/2011,ImageIcon: images/HarryPotterDeathlyHallowsPart2.jpg,Format: Blu-Ray
+The Help,Genre: Drama,Rating: 4.6,Times Checked Out: 16,Release Date: 8/10/2011,ImageIcon: images/TheHelp.jpg,Format: Blu-Ray
+The Change Up,Genre: Comedy,Rating: 3.8,Times Checked Out: 8,Release Date: 8/05/2011,ImageIcon: images/TheChangeUp.jpg,Format: DVD
+The Smurfs (2011),Genre: Animation,Rating: 2.9,Times Checked Out: 7,Release Date: 7/29/2011,ImageIcon: images/TheSmurfs.jpg,Format: DVD
+Number of Videogames: 7
+Super Mario Galaxy 2,Genre: Platformer,Rating: 4.90625,Times Checked Out: 16,Release Date: 6/5/2010,ImageIcon: images/SuperMario.jpg,Platform: Wii
+Battlefield 3,Genre: Action,Rating: 4.6,Times Checked Out: 11,Release Date: 10/25/2011,ImageIcon: images/Battlefield3.jpg,Platform: PS3
+Red Dead Redemption,Genre: Action,Rating: 4.8,Times Checked Out: 5,Release Date: 4/10/2010,ImageIcon: images/RedDead.jpg,Platform: Xbox360
+Fallout 3,Genre: RPG,Rating: 4.6,Times Checked Out: 3,Release Date: 6/5/2008,ImageIcon: images/Fallout3.jpg,Platform: PS3
+Gears of War 3,Genre: Action,Rating: 4.5,Times Checked Out: 2,Release Date: 9/15/2010,ImageIcon: images/GearsOfWar.jpg,Platform: Xbox360
+FIFA 12,Genre: Sports,Rating: 0.0,Times Checked Out: 1,Release Date: 9/27/2011,ImageIcon: images/FIFA12.jpg,Platform: PS3
+Puzzle Quest,Genre: Puzzle,Rating: 0.0,Times Checked Out: 0,Release Date: 3/4/2007,ImageIcon: images/PuzzleQuest.jpg,Platform: Wii
+Number of Customers: 4
+Customer Name: Taylor Peoples
+Total Charge: 15.0
+Total Rentals Currently Checked Out: 2
+Total Rentals Previously Checked Out: 1
+CURRENT
+Movie: X-Men: First Class
+Videogame: Gears of War 3
+PREVIOUS
+Movie: Midnight In Paris
+Customer Name: Stephen Ranshous
+Total Charge: 10.0
+Total Rentals Currently Checked Out: 1
+Total Rentals Previously Checked Out: 0
+CURRENT
+Videogame: Fallout 3
+PREVIOUS
+Customer Name: Shayan Javed
+Total Charge: 5.0
+Total Rentals Currently Checked Out: 0
+Total Rentals Previously Checked Out: 1
+CURRENT
+PREVIOUS
+Movie: Midnight In Paris
+Customer Name: Logan Peoples
+Total Charge: 10.0
+Total Rentals Currently Checked Out: 1
+Total Rentals Previously Checked Out: 1
+CURRENT
+Videogame: Battlefield 3
+PREVIOUS
+Videogame: Super Mario Galaxy 2
