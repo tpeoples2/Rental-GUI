@@ -29,9 +29,10 @@ public class RedBoxGUI extends JFrame {
 	String[] sortMovieOptions = {"Popularity", "Title", "Rating", "Format", "Release Date"};
 	String[] sortVideogameOptions = {"Popularity", "Title", "Rating", "Platform", "Release Date"};
 	
+
 	// JComboBox for choosing sorting options
-	JComboBox<String> jcboMovieOptions = new JComboBox<String>(sortMovieOptions);
-	JComboBox<String> jcboVideogameOptions = new JComboBox<String>(sortVideogameOptions);
+	JComboBox jcboMovieOptions = new JComboBox(sortMovieOptions);
+	JComboBox jcboVideogameOptions = new JComboBox(sortVideogameOptions);
 	
 	// arrayList to hold all JLabels
 	protected ArrayList<JLabel> movieLabels = new ArrayList<JLabel>();
